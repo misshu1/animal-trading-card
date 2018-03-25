@@ -1,2 +1,1 @@
-# tradingCard
-udacityTradingCard
+#  Game card
